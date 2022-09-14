@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /*
- *  main - prints the size of various types
+ *  Description: main - prints the size of various types.
  *
- *  Description: using the main function
- *  this program prints the size of various tpyes
- *  Return - 0 for success
+ *  Return - 0 for success.
  */
 int main(void)
 {
